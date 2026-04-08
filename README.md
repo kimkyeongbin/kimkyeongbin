@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요 영남대학교 컴퓨터공학과 김경빈입니다.</li> 학번:22012158 </div> 
+    </div>
+    
+
 <!--
 **kimkyeongbin/kimkyeongbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
